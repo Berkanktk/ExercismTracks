@@ -25,7 +25,7 @@ public class CarsAssemble {
     public static void main(String[] args) {
         CarsAssemble carsAssemble = new CarsAssemble();
 
-        System.out.println(carsAssemble.productionRatePerHour(10));
-        System.out.println(carsAssemble.workingItemsPerMinute(6));
+        System.out.println(carsAssemble.productionRatePerHour(10)); // Outputs: 1701.7
+        System.out.println(carsAssemble.workingItemsPerMinute(6)); // Outputs: 19
     }
 }
