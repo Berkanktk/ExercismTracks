@@ -1,4 +1,4 @@
-local BankAccount = {}
+local BankAccount = {} 
     
 BankAccount.new = function(self)
 	local money = 0
