@@ -19,3 +19,6 @@
 | ElonsToyCar          | Learn about classes by working on a remote controlled car.                                               |
 | BirdWatcher          | Learn about arrays by keeping track of how many birds visit your garden.                                 |
 | Scrabble             | Given a word, compute the Scrabble score for that word.                                                  |
+| LanguageList         | Learn about lists by helping Karl keep track of the languages he wants to learn on Exercism.             |
+| NeedForSpeed         | Learn about classes by creating cars.                                                                    |
+| SecretHandShake      | Given a decimal number, convert it to the appropriate sequence of events for a secret handshake.         |
