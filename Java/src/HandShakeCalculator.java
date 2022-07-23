@@ -18,3 +18,11 @@ class HandshakeCalculator {
         return signals;
     }
 }
+
+// MADE IN ORDER TO REMOVE ERRORS
+class Signal {
+    public static Signal DOUBLE_BLINK;
+    public static Signal CLOSE_YOUR_EYES;
+    public static Signal WINK;
+    public static Signal JUMP;
+}
